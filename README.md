@@ -8,7 +8,7 @@ Now what?
 
 You are the most powerful warrior alive, but can you also run a kingdom? Smaller territories and cities want to rise up and govern themselves, and won't hesitate to assassinate you for that. Dissenters want to eliminate you to gain the favor of the next overlords. Foreign lands see the overlord's death as a power gap and want to take over, either through might or deception. Your shattered kingdom doesn't even know how to function.
 
-Your war has shifted from killing monsters to leading a kingdom. Can you survive like this? Will you lead your kingdom to a land of prosperity? Or will you be forced to rule with a cruel hand and cold heart, just like your predecessor?
+Your war has shifted from winning battles to leading a kingdom. Can you survive like this? Will you lead your kingdom to a land of prosperity? Or will you be forced to rule with a cruel hand and cold heart, just like your predecessor?
 
 ### Graphics
 
@@ -33,3 +33,12 @@ Every territory will have problems specific to them, that the player must solve.
 Things can & will go wrong with the orders you make, and with the plans you make - that will be an aspect of the game. Some leaders will keep secrets, or even flat-out lie to you, which you will have to reason out. Secrets which you keep from other leaders will eventually be found out, no matter how hard you try. It is best to not keep any secrets at all - but that just won't be possible.
 
 The way to win the game is to get things to happen without putting too much burden on any specific territory. You can only bring the lands to prosperity by getting certain things done, but everyone will have to make some amount of sacrifice. To do nothing is to leave the lands in dispair, and nobody will be satified with your position.
+
+### Design Planning
+
+-   Territories and their leaders will have multiple hidden attributes that affect how they react to your orders.
+    -   How much the territory trusts what you're ordering will benefit them in the long run
+    -   How much the territory agrees with your actions. This is easier when it benefits them
+    -   How much the territory trusts giving you information. For example, if they let it slip that they have lots of lumber, and you immediately start using that lumber without return rewards, they will be less willing to share additional information
+    -   Safety of the territory from attacks from outside armies (players will need to position armies on the perimeter of their kingdom)
+    -   Supply levels (especially food) available to the territories. Having supplies on hand is best, even if they don't need all of it. Expected harvests don't count until they're Having supplies in route leaves them nervous. Pulling supplies away from them is a negative, doubly so when they'll be low on it after the pull.
