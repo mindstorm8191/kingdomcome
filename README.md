@@ -41,4 +41,13 @@ The way to win the game is to get things to happen without putting too much burd
     -   How much the territory agrees with your actions. This is easier when it benefits them
     -   How much the territory trusts giving you information. For example, if they let it slip that they have lots of lumber, and you immediately start using that lumber without return rewards, they will be less willing to share additional information
     -   Safety of the territory from attacks from outside armies (players will need to position armies on the perimeter of their kingdom)
-    -   Supply levels (especially food) available to the territories. Having supplies on hand is best, even if they don't need all of it. Expected harvests don't count until they're Having supplies in route leaves them nervous. Pulling supplies away from them is a negative, doubly so when they'll be low on it after the pull.
+    -   Supply levels (especially food) available to the territories. Having supplies on hand is best, even if they don't need all of it. Expected harvests don't count until they're received. Having supplies in route leaves them nervous. Pulling supplies away from them is a negative, doubly so when they'll be low on it after the pull.
+    -   Likeliness to be attacked by neighboring territories. This is especially possible in territories on the outer edge of your reign.
+    -   Likeliness for citizens to overthrow leadership within their own territory
+
+### Ideas on game format
+
+1.  A multi-part system where the user will have a full map, and can order operations from there. They can also request to meet people, or travel to places to meet others on their territory.
+    -   Travelling to each territory will give players the clearest picture of conditions there.
+    -   Meetings with territory leaders will be dialog-based, with lots of text and lots of options to respond. Leaders may discuss several topics during the same meeting. Players may ask questions multiple times, and get different responses depending on the leaders' mood & other factors. The game should allow the player or leader to lead conversations, and allow differnt levels of hostility to be managed, as well. For example, if the player shows anger at certain actions of a leader, that leader may show anger in return, or become shielded / submissive.
+    -   Players will be able to order specific goods moved from one territory to another, from the map screen. The map screen will also allow players to take notes for each territory, as well as alter information about resources in each territory
